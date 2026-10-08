@@ -1,0 +1,14 @@
+MODIFIER LE PORTFOLIO
+
+Ouvre ce dossier dans Visual Studio Code.
+
+- Textes et liens : index.html
+- Couleurs et interface : styles.css
+- Animations : script.js
+- Photos : assets/
+
+Pour voir les changements :
+enregistre puis actualise le navigateur.
+
+Pour mettre à jour le site publié :
+modifie les fichiers, puis remplace-les sur GitHub.
